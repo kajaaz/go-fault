@@ -1,4 +1,4 @@
-module github.com/github/go-fault
+module github.com/kajaaz/go-fault
 
 go 1.19
 
